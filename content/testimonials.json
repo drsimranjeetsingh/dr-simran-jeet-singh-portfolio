@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Riya Shah",
+    "tag": "Smile Design Patient",
+    "text": "I was always conscious about my smile. Dr. Simran explained every step patiently and designed a smile that looks completely natural. My confidence has gone to the next level.",
+    "image": "/images/testimonials/test1.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Amit Patel",
+    "tag": "Cosmetic Dentistry",
+    "text": "The experience was extremely professional and comfortable from start to finish. I really appreciated the honest guidance and focus on long-term dental health, not just looks.",
+    "image": "/images/testimonials/test2.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Neha Verma",
+    "tag": "Full Smile Makeover",
+    "text": "From consultation to final result, everything was so transparent and detail-oriented. Friends and family keep complimenting my new smile.",
+    "image": "/images/testimonials/test3.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Aarav Patel",
+    "tag": "Cosmetic Dentistry",
+    "text": "The experience was extremely professional and comfortable from start to finish. I really appreciated the honest guidance and focus on long-term dental health, not just looks.",
+    "image": "/images/testimonials/test1.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Sneha Patel",
+    "tag": "Full Smile Makeover",
+    "text": "From consultation to final result, everything was so transparent and detail-oriented. Friends and family keep complimenting my new smile.",
+    "image": "/images/testimonials/test2.jpeg"
+  }
+]
+

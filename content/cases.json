@@ -1,0 +1,62 @@
+[
+  {
+    "id": "smile-design-1",
+    "title": "Smile Design Case",
+    "location": "Gandhinagar",
+    "description": "Comprehensive smile design treatment",
+    "beforeImage": "/images/smile-design/case-1/before.webp",
+    "afterImage": "/images/smile-design/case-1/after.webp",
+    "altBefore": "Smile Design Before Treatment in Gandhinagar",
+    "altAfter": "Smile Design After Treatment in Gandhinagar"
+  },
+  {
+    "id": "cosmetic-case-1",
+    "title": "Cosmetic Dentistry Case",
+    "location": "Ahmedabad",
+    "description": "Aesthetic restoration treatment",
+    "beforeImage": "/images/smile-design/case-2/before.webp",
+    "afterImage": "/images/smile-design/case-2/after.webp",
+    "altBefore": "Cosmetic Dentistry Before Treatment in Ahmedabad",
+    "altAfter": "Cosmetic Dentistry After Treatment in Ahmedabad"
+  },
+  {
+    "id": "smile-design-2",
+    "title": "Smile Design Case",
+    "location": "Gandhinagar",
+    "description": "Comprehensive smile design treatment",
+    "beforeImage": "/images/smile-design/case-1/before.webp",
+    "afterImage": "/images/smile-design/case-1/after.webp",
+    "altBefore": "Smile Design Before Treatment in Gandhinagar",
+    "altAfter": "Smile Design After Treatment in Gandhinagar"
+  },
+  {
+    "id": "cosmetic-case-2",
+    "title": "Cosmetic Dentistry Case",
+    "location": "Ahmedabad",
+    "description": "Aesthetic restoration treatment",
+    "beforeImage": "/images/smile-design/case-2/before.webp",
+    "afterImage": "/images/smile-design/case-2/after.webp",
+    "altBefore": "Cosmetic Dentistry Before Treatment in Ahmedabad",
+    "altAfter": "Cosmetic Dentistry After Treatment in Ahmedabad"
+  },
+  {
+    "id": "smile-design-3",
+    "title": "Smile Design Case",
+    "location": "Gandhinagar",
+    "description": "Comprehensive smile design treatment",
+    "beforeImage": "/images/smile-design/case-1/before.webp",
+    "afterImage": "/images/smile-design/case-1/after.webp",
+    "altBefore": "Smile Design Before Treatment in Gandhinagar",
+    "altAfter": "Smile Design After Treatment in Gandhinagar"
+  },
+  {
+    "id": "cosmetic-case-3",
+    "title": "Cosmetic Dentistry Case",
+    "location": "Ahmedabad",
+    "description": "Aesthetic restoration treatment",
+    "beforeImage": "/images/smile-design/case-2/before.webp",
+    "afterImage": "/images/smile-design/case-2/after.webp",
+    "altBefore": "Cosmetic Dentistry Before Treatment in Ahmedabad",
+    "altAfter": "Cosmetic Dentistry After Treatment in Ahmedabad"
+  }
+]

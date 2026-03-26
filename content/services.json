@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Smile Transformation",
+    "slug": "smile-transformation",
+    "description": "Complete smile makeovers designed to enhance facial harmony, boost confidence, and create lasting aesthetic impact.",
+    "seoDescription": "Smile transformation treatments in Gandhinagar and Ahmedabad focused on precision, aesthetics, and long-term oral health.",
+    "icon": "✨"
+  },
+  {
+    "title": "Veneers/Laminates",
+    "slug": "veneers-laminates",
+    "description": "Thin, custom-crafted porcelain shells that cover tooth surfaces for a flawless, natural-looking smile.",
+    "seoDescription": "Veneer and laminate treatments in Gandhinagar and Ahmedabad for beautiful, durable aesthetic restorations.",
+    "icon": "💎"
+  },
+  {
+    "title": "Teeth Whitening",
+    "slug": "teeth-whitening",
+    "description": "Professional whitening treatments using advanced technology to safely brighten your smile multiple shades.",
+    "seoDescription": "Professional teeth whitening services available in Gandhinagar with consultation options in Ahmedabad.",
+    "icon": "🦷"
+  },
+  {
+    "title": "Geriatric Dentistry",
+    "slug": "geriatric-dentistry",
+    "description": "Specialized dental care tailored to senior patients, addressing age-related dental health concerns with compassion.",
+    "seoDescription": "Geriatric dentistry services in Gandhinagar for elderly patients requiring specialized and gentle dental care.",
+    "icon": "👴"
+  },
+  {
+    "title": "Minimum Intervention Dentistry",
+    "slug": "minimum-intervention-dentistry",
+    "description": "Conservative approach to dental treatment that preserves maximum natural tooth structure while ensuring optimal outcomes.",
+    "seoDescription": "Minimum intervention dentistry in Gandhinagar and Ahmedabad for conservative and natural tooth preservation.",
+    "icon": "🌿"
+  }
+]
