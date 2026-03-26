@@ -177,12 +177,12 @@ export default function PremiumComingSoon() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 0.3, ease: "easeOut" }}
         >
-          <div className="flex items-center gap-4 mb-8">
-            <div className="h-[1px] w-8 bg-amber-200" />
-            <h2 className="text-xs sm:text-sm uppercase tracking-[0.4em] text-neutral-500 font-medium">
+          <div className="flex items-center gap-3 sm:gap-4 mb-8">
+            <div className="h-[1px] w-6 sm:w-8 bg-amber-200" />
+            <h2 className="text-[10px] sm:text-xs md:text-sm uppercase tracking-[0.2em] sm:tracking-[0.4em] text-neutral-500 font-medium whitespace-nowrap">
               Dr. Simran Jeet Singh
             </h2>
-            <div className="h-[1px] w-8 bg-amber-200" />
+            <div className="h-[1px] w-6 sm:w-8 bg-amber-200" />
           </div>
         </motion.div>
 
