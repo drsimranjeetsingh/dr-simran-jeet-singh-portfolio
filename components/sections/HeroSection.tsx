@@ -10,7 +10,7 @@ import Image from "next/image";
 export default function HeroSection() {
     const highlights = [
         { icon: "👥", label: "500+ Happy Smiles" },
-        { icon: "⭐", label: "5+ Years Expertise" },
+        { icon: "⭐", label: "3+ Years Expertise" },
         { icon: "💯", label: "100% Satisfaction" },
     ];
 

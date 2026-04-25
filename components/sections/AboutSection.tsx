@@ -24,7 +24,7 @@ export default function AboutPage() {
         {
             icon: "🎯",
             title: "Precision & Artistry",
-            description: "Combining science with aesthetic beauty"
+            description: "Delivering confident smiles through science and aesthetics"
         },
     ];
 
@@ -44,7 +44,7 @@ export default function AboutPage() {
                             One Patient at a Time
                         </h2>
                         <p className="text-lg text-neutral-600 max-w-3xl mx-auto">
-                            At a Consulting Aesthetic Dentist, I blend personalized smile transformations with extensive clinical expertise and evidence-based advice. My goal is to build confidence through ethical approaches combined with comprehensive patient care.
+                            As a Consulting Aesthetic Dentist, I provide personalized smile transformations backed by clinical expertise and evidence-based care, with a strong focus on patient satisfaction and compassionate, individualized treatment.
                         </p>
                     </div>
 

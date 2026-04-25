@@ -20,43 +20,53 @@
     "altAfter": "Cosmetic Dentistry After Treatment in Ahmedabad"
   },
   {
-    "id": "smile-design-2",
-    "title": "Smile Design Case",
+    "id": "advanced-aesthetic-3",
+    "title": "Advanced Aesthetic Restoration",
     "location": "Gandhinagar",
-    "description": "Comprehensive smile design treatment",
-    "beforeImage": "/images/smile-design/case-1/before.webp",
-    "afterImage": "/images/smile-design/case-1/after.webp",
-    "altBefore": "Smile Design Before Treatment in Gandhinagar",
-    "altAfter": "Smile Design After Treatment in Gandhinagar"
+    "description": "Full mouth rehabilitation for a confident smile",
+    "beforeImage": "/images/smile-design/case-3/before.webp",
+    "afterImage": "/images/smile-design/case-3/after.webp",
+    "altBefore": "Advanced Aesthetic Restoration Before",
+    "altAfter": "Advanced Aesthetic Restoration After"
   },
   {
-    "id": "cosmetic-case-2",
-    "title": "Cosmetic Dentistry Case",
+    "id": "diastema-closure-4",
+    "title": "Diastema Closure",
     "location": "Ahmedabad",
-    "description": "Aesthetic restoration treatment",
-    "beforeImage": "/images/smile-design/case-2/before.webp",
-    "afterImage": "/images/smile-design/case-2/after.webp",
-    "altBefore": "Cosmetic Dentistry Before Treatment in Ahmedabad",
-    "altAfter": "Cosmetic Dentistry After Treatment in Ahmedabad"
+    "description": "Gap closure and composite bonding for a natural look",
+    "beforeImage": "/images/smile-design/case-4/before.webp",
+    "afterImage": "/images/smile-design/case-4/after.webp",
+    "altBefore": "Diastema Closure Before",
+    "altAfter": "Diastema Closure After"
   },
   {
-    "id": "smile-design-3",
-    "title": "Smile Design Case",
+    "id": "composite-veneers-5",
+    "title": "Direct Composite Veneers",
     "location": "Gandhinagar",
-    "description": "Comprehensive smile design treatment",
-    "beforeImage": "/images/smile-design/case-1/before.webp",
-    "afterImage": "/images/smile-design/case-1/after.webp",
-    "altBefore": "Smile Design Before Treatment in Gandhinagar",
-    "altAfter": "Smile Design After Treatment in Gandhinagar"
+    "description": "Minimally invasive makeover for discolored teeth",
+    "beforeImage": "/images/smile-design/case-5/before.webp",
+    "afterImage": "/images/smile-design/case-5/after.webp",
+    "altBefore": "Composite Veneers Before",
+    "altAfter": "Composite Veneers After"
   },
   {
-    "id": "cosmetic-case-3",
-    "title": "Cosmetic Dentistry Case",
+    "id": "complex-makeover-6",
+    "title": "Complex Smile Makeover",
     "location": "Ahmedabad",
-    "description": "Aesthetic restoration treatment",
-    "beforeImage": "/images/smile-design/case-2/before.webp",
-    "afterImage": "/images/smile-design/case-2/after.webp",
-    "altBefore": "Cosmetic Dentistry Before Treatment in Ahmedabad",
-    "altAfter": "Cosmetic Dentistry After Treatment in Ahmedabad"
+    "description": "Correcting alignment and shade for optimal aesthetics",
+    "beforeImage": "/images/smile-design/case-6/before.webp",
+    "afterImage": "/images/smile-design/case-6/after.webp",
+    "altBefore": "Complex Smile Makeover Before",
+    "altAfter": "Complex Smile Makeover After"
+  },
+  {
+    "id": "ceramic-veneers-7",
+    "title": "Ceramic Veneers Treatment",
+    "location": "Gandhinagar",
+    "description": "Custom ceramic veneers for perfect symmetry",
+    "beforeImage": "/images/smile-design/case-7/before.webp",
+    "afterImage": "/images/smile-design/case-7/after.webp",
+    "altBefore": "Ceramic Veneers Before",
+    "altAfter": "Ceramic Veneers After"
   }
 ]

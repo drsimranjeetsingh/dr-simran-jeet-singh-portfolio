@@ -1,38 +1,45 @@
 [
   {
     "id": 1,
-    "name": "Riya Shah",
-    "tag": "Smile Design Patient",
-    "text": "I was always conscious about my smile. Dr. Simran explained every step patiently and designed a smile that looks completely natural. My confidence has gone to the next level.",
-    "image": "/images/testimonials/test1.jpeg"
+    "tag": "Smile Transformation",
+    "text": "Very satisfied, natural-looking teeth, cooperative and cheerful doctor, great experience overall, highly happy with the smile transformation results.",
+    "image": "/images/testimonials/test1.webp"
   },
   {
     "id": 2,
-    "name": "Amit Patel",
-    "tag": "Cosmetic Dentistry",
-    "text": "The experience was extremely professional and comfortable from start to finish. I really appreciated the honest guidance and focus on long-term dental health, not just looks.",
-    "image": "/images/testimonials/test2.jpeg"
+    "tag": "Midline Space Closure",
+    "text": "Very fast one-sitting treatment with exact tooth matching, clean finish, and natural-looking results achieved quickly.",
+    "image": "/images/testimonials/test2.webp"
   },
   {
     "id": 3,
-    "name": "Neha Verma",
-    "tag": "Full Smile Makeover",
-    "text": "From consultation to final result, everything was so transparent and detail-oriented. Friends and family keep complimenting my new smile.",
-    "image": "/images/testimonials/test3.jpeg"
+    "tag": "Denture",
+    "text": "Home visit restored smile, now able to chew and smile comfortably with natural-looking results and improved confidence.",
+    "image": "/images/testimonials/test3.webp"
   },
   {
     "id": 4,
-    "name": "Aarav Patel",
-    "tag": "Cosmetic Dentistry",
-    "text": "The experience was extremely professional and comfortable from start to finish. I really appreciated the honest guidance and focus on long-term dental health, not just looks.",
-    "image": "/images/testimonials/test1.jpeg"
+    "tag": "Child Patient Treatment",
+    "text": "Fear-free, friendly care; child happily agreed to treatment here, felt comfortable throughout, and had a positive dental experience.",
+    "image": "/images/testimonials/test4.webp"
   },
   {
     "id": 5,
-    "name": "Sneha Patel",
-    "tag": "Full Smile Makeover",
-    "text": "From consultation to final result, everything was so transparent and detail-oriented. Friends and family keep complimenting my new smile.",
-    "image": "/images/testimonials/test2.jpeg"
+    "tag": "Smile Designing",
+    "text": "Very happy with alignment in just one hour, excellent service and friendly nature, quick and satisfying smile transformation experience.",
+    "image": "/images/testimonials/test5.webp"
+  },
+  {
+    "id": 6,
+    "tag": "Full Mouth Rehabilitation",
+    "text": "Genuine care, pain-free treatment in two days, chewing fully restored, comfortable bite, improved function, and very satisfied overall.",
+    "image": "/images/testimonials/test6.webp"
+  },
+  {
+    "id": 7,
+    "tag": "Child Treatment",
+    "text": "Cooperative, patient doctor; painless, fear-free care, child stayed calm and comfortable, smooth treatment experience overal.",
+    "image": "/images/testimonials/test7.webp"
   }
 ]
 

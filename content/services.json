@@ -3,35 +3,90 @@
     "title": "Smile Transformation",
     "slug": "smile-transformation",
     "description": "Complete smile makeovers designed to enhance facial harmony, boost confidence, and create lasting aesthetic impact.",
-    "seoDescription": "Smile transformation treatments in Gandhinagar and Ahmedabad focused on precision, aesthetics, and long-term oral health.",
-    "icon": "✨"
+    "seoDescription": "Smile transformation treatments in Gandhinagar and Ahmedabad focused on precision, aesthetics, and long-term oral health."
   },
   {
-    "title": "Veneers/Laminates",
+    "title": "Veneers / Laminates",
     "slug": "veneers-laminates",
     "description": "Thin, custom-crafted porcelain shells that cover tooth surfaces for a flawless, natural-looking smile.",
-    "seoDescription": "Veneer and laminate treatments in Gandhinagar and Ahmedabad for beautiful, durable aesthetic restorations.",
-    "icon": "💎"
+    "seoDescription": "Veneer and laminate treatments in Gandhinagar and Ahmedabad for beautiful, durable aesthetic restorations."
   },
   {
     "title": "Teeth Whitening",
     "slug": "teeth-whitening",
     "description": "Professional whitening treatments using advanced technology to safely brighten your smile multiple shades.",
-    "seoDescription": "Professional teeth whitening services available in Gandhinagar with consultation options in Ahmedabad.",
-    "icon": "🦷"
+    "seoDescription": "Professional teeth whitening services available in Gandhinagar with consultation options in Ahmedabad."
   },
   {
     "title": "Geriatric Dentistry",
     "slug": "geriatric-dentistry",
     "description": "Specialized dental care tailored to senior patients, addressing age-related dental health concerns with compassion.",
-    "seoDescription": "Geriatric dentistry services in Gandhinagar for elderly patients requiring specialized and gentle dental care.",
-    "icon": "👴"
+    "seoDescription": "Geriatric dentistry services in Gandhinagar for elderly patients requiring specialized and gentle dental care."
   },
   {
     "title": "Minimum Intervention Dentistry",
     "slug": "minimum-intervention-dentistry",
     "description": "Conservative approach to dental treatment that preserves maximum natural tooth structure while ensuring optimal outcomes.",
-    "seoDescription": "Minimum intervention dentistry in Gandhinagar and Ahmedabad for conservative and natural tooth preservation.",
-    "icon": "🌿"
+    "seoDescription": "Minimum intervention dentistry in Gandhinagar and Ahmedabad for conservative and natural tooth preservation."
+  },
+  {
+    "title": "Replacement of Teeth",
+    "slug": "replacement-of-teeth",
+    "description": "Restore function and aesthetics with advanced options for missing teeth.",
+    "seoDescription": "Advanced teeth replacement options in Gandhinagar and Ahmedabad to restore your smile."
+  },
+  {
+    "title": "Dental Implants",
+    "slug": "dental-implants",
+    "description": "Permanent, natural-looking solutions to replace missing teeth and restore your beautiful smile.",
+    "seoDescription": "High-quality dental implants in Gandhinagar to permanently replace missing teeth."
+  },
+  {
+    "title": "Home Services for Bedridden Patients",
+    "slug": "home-services-bedridden",
+    "description": "Compassionate and convenient dental care provided directly at home for patients with limited mobility.",
+    "seoDescription": "Home dental services for bedridden patients in Gandhinagar and Ahmedabad."
+  },
+  {
+    "title": "Diamond Cosmetic Jewellery",
+    "slug": "diamond-cosmetic-jewellery",
+    "description": "Add a sparkle to your smile with safe, non-invasive diamond tooth jewellery.",
+    "seoDescription": "Diamond cosmetic tooth jewellery application in Gandhinagar to enhance your smile."
+  },
+  {
+    "title": "Teeth Aligners",
+    "slug": "teeth-aligners",
+    "description": "Clear, comfortable aligners to straighten your teeth discreetly without traditional braces.",
+    "seoDescription": "Clear teeth aligners and invisible braces in Gandhinagar for straightening teeth."
+  },
+  {
+    "title": "Cancer Surgery Treatment",
+    "slug": "cancer-surgery-treatment",
+    "description": "Specialized oral cancer surgical treatments focused on comprehensive care and recovery.",
+    "seoDescription": "Expert oral cancer surgery treatments in Gandhinagar and Ahmedabad."
+  },
+  {
+    "title": "Root Canal Treatment",
+    "slug": "root-canal-treatment",
+    "description": "Painless and precise root canal treatments to save infected teeth and eliminate pain.",
+    "seoDescription": "Painless root canal treatments in Gandhinagar using advanced technology."
+  },
+  {
+    "title": "Painless Removal of Tooth",
+    "slug": "painless-removal-of-tooth",
+    "description": "Safe, comfortable, and pain-free tooth extraction procedures including wisdom teeth removal.",
+    "seoDescription": "Painless tooth extraction and wisdom tooth removal services in Gandhinagar."
+  },
+  {
+    "title": "Treatment of Bleeding Gums",
+    "slug": "treatment-of-bleeding-gums",
+    "description": "Effective periodontal treatments to address bleeding gums and restore optimal gum health.",
+    "seoDescription": "Expert treatment for bleeding gums and periodontal disease in Gandhinagar."
+  },
+  {
+    "title": "Pediatric Dentistry",
+    "slug": "pediatric-dentistry",
+    "description": "Gentle and specialized dental care to ensure healthy smiles for infants, children, and adolescents.",
+    "seoDescription": "Pediatric dentistry in Gandhinagar providing gentle care for children's dental health."
   }
 ]

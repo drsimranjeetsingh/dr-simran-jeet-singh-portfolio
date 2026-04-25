@@ -27,30 +27,18 @@ export default function CasesPage() {
                 </div>
 
                 {/* Cases Grid */}
-                <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
+                <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8 mb-16 max-w-7xl mx-auto">
                     {cases.map((caseItem) => (
-                        <div key={caseItem.id} className="group flex flex-col h-full">
-                            <div className="flex-grow">
-                                {/* Case Title */}
-                                <h3 className="text-lg font-bold text-neutral-900 mb-2">
-                                    {caseItem.title}
-                                </h3>
-                                <p className="text-sm text-neutral-600 mb-4">
-                                    {caseItem.description}
-                                </p>
-                            </div>
-
+                        <div key={caseItem.id} className="group relative rounded-2xl overflow-hidden shadow-sm border border-neutral-100 hover:shadow-md transition-shadow bg-white pb-0">
                             {/* Before/After Slider */}
-                            <div className="mt-auto">
-                                <BeforeAfterSlider
-                                    beforeImage={caseItem.beforeImage}
-                                    afterImage={caseItem.afterImage}
-                                    beforeLabel="Before"
-                                    afterLabel="After"
-                                    altBefore={caseItem.altBefore}
-                                    altAfter={caseItem.altAfter}
-                                />
-                            </div>
+                            <BeforeAfterSlider
+                                beforeImage={caseItem.beforeImage}
+                                afterImage={caseItem.afterImage}
+                                beforeLabel="Before"
+                                afterLabel="After"
+                                altBefore={caseItem.altBefore}
+                                altAfter={caseItem.altAfter}
+                            />
                         </div>
                     ))}
                 </div>

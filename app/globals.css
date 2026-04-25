@@ -58,3 +58,27 @@ p {
   animation-play-state: paused;
 }
 
+/* Custom Scrollbar matching the theme (Blue) */
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px; /* also added height for any horizontal scrollable areas */
+}
+
+*::-webkit-scrollbar-track {
+  background: #f8fafc; /* neutral light background */
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #93c5fd; /* Soft blue to match theme */
+  border-radius: 5px;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: #3b82f6; /* Deeper blue for hover state */
+}
+
+/* Firefox scrollbar styling */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #93c5fd #f8fafc;
+}
