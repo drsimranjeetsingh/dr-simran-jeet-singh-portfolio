@@ -15,6 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://drsimranjeetsingh.com"),
   title: {
     default: "Dr. Simran Jeet Singh | Aesthetic Dentist in Gandhinagar & Ahmedabad",
     template: "%s | Dr. Simran Jeet Singh",
@@ -31,21 +32,39 @@ export const metadata: Metadata = {
     "Gandhinagar dentist",
     "Ahmedabad dentist",
   ],
+  authors: [{ name: "Dr. Simran Jeet Singh" }],
+  creator: "Dr. Simran Jeet Singh",
   icons: {
     icon: "/favicon.ico",
   },
+  alternates: {
+    canonical: "/",
+  },
   openGraph: {
     type: "website",
+    url: "https://drsimranjeetsingh.com",
     title: "Dr. Simran Jeet Singh | Aesthetic Dentist in Gandhinagar & Ahmedabad",
     description:
       "Smile design, veneers, teeth whitening, and cosmetic dentistry with ethical, evidence-based care.",
     siteName: "Dr. Simran Jeet Singh",
+    locale: "en_IN",
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: "Dr. Simran Jeet Singh | Aesthetic Dentist",
     description:
       "Smile design, veneers, teeth whitening, and cosmetic dentistry in Gandhinagar & Ahmedabad.",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
   },
 };
 
