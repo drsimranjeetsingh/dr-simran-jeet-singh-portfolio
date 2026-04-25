@@ -8,7 +8,6 @@ import testimonialsData from "@/content/testimonials.json";
 
 type Testimonial = {
     id: number;
-    name: string;
     tag: string;
     text: string;
     image: string;
@@ -23,7 +22,7 @@ export default function TestimonialsSection() {
     return (
         <Section
             id="testimonials"
-            className="bg-gradient-to-b from-white via-sky-50 to-white pt-20 pb-20"
+            className="bg-gradient-to-b from-white via-sky-50 to-white pt-12 md:pt-20 pb-8 md:pb-20"
         >
             <style jsx global>{`
                 .testimonial-marquee {
@@ -31,7 +30,13 @@ export default function TestimonialsSection() {
                     overflow-x: hidden;
                     overflow-y: visible;
                     width: 100%;
-                    padding: 22px 0 70px;
+                    padding: 20px 0 30px;
+                }
+                
+                @media (min-width: 768px) {
+                    .testimonial-marquee {
+                        padding: 22px 0 50px;
+                    }
                 }
 
                 .testimonial-track {
@@ -99,7 +104,7 @@ export default function TestimonialsSection() {
             `}</style>
 
             <Container>
-                <div className="text-center mb-16">
+                <div className="text-center mb-8 md:mb-16">
                     <p className="text-blue-400 text-sm font-semibold uppercase tracking-wider mb-4">
                         Patient Stories
                     </p>
@@ -130,27 +135,20 @@ export default function TestimonialsSection() {
                                         <div className="flip-card-inner h-full">
                                             <div className="flip-card-front">
                                                 <div className="h-full rounded-3xl shadow-xl bg-white/90 border border-blue-100 overflow-hidden">
-                                                    <div className="p-6 md:p-7 flex flex-col justify-between bg-white h-full">
-                                                        <div>
-                                                            <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-blue-50 px-3 py-1 text-[11px] font-semibold text-blue-700 uppercase tracking-wider">
-                                                                <span className="text-base">“</span>
-                                                                <span>Patient Story</span>
+                                                        <div className="p-5 md:p-6 flex flex-col bg-white h-full relative">
+                                                            {/* Large subtle quote icon in background */}
+                                                            <div className="absolute bottom-4 right-4 text-blue-50 opacity-40 font-serif text-8xl pointer-events-none select-none">
+                                                                "
                                                             </div>
-                                                            <p className="text-neutral-700 text-sm md:text-base leading-relaxed line-clamp-5">
-                                                                {item.text}
-                                                            </p>
-                                                        </div>
-
-                                                        <div className="mt-4 pt-3 border-t border-neutral-100 flex items-center justify-between">
-                                                            <div>
-                                                                <p className="text-sm font-semibold text-neutral-900">{item.name}</p>
-                                                                <p className="text-xs text-neutral-500">{item.tag}</p>
+                                                            <div className="relative z-10 h-full flex flex-col">
+                                                                <div className="mb-3 inline-flex self-start items-center rounded-full bg-blue-50/80 px-2.5 py-1 text-[10px] md:text-[11px] font-bold text-blue-600 uppercase tracking-wider shadow-sm border border-blue-100/50">
+                                                                    {item.tag}
+                                                                </div>
+                                                                <p className="text-neutral-600 font-medium text-[13px] md:text-sm leading-relaxed line-clamp-[8] italic w-full pr-2 mt-2">
+                                                                    {item.text}
+                                                                </p>
                                                             </div>
-                                                            {/* <p className="text-[10px] text-neutral-500 uppercase tracking-widest">
-                                                                Hover to flip
-                                                            </p> */}
                                                         </div>
-                                                    </div>
                                                 </div>
                                             </div>
 
@@ -159,7 +157,7 @@ export default function TestimonialsSection() {
                                                     <div className="relative h-full w-full">
                                                         <Image
                                                             src={item.image}
-                                                            alt={`${item.name} with Dr. Simran`}
+                                                            alt={`Patient transformation with Dr. Simran`}
                                                             fill
                                                             className="object-cover"
                                                         />

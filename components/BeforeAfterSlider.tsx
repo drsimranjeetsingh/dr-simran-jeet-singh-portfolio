@@ -90,15 +90,15 @@ export default function BeforeAfterSlider({
 
                 {/* Before Image - Clipped to left portion only */}
                 <div
-                    className="absolute top-0 left-0 h-full overflow-hidden"
-                    style={{ width: `${sliderPosition}%` }}
+                    className="absolute top-0 left-0 h-full w-full overflow-hidden"
+                    style={{ clipPath: `inset(0 ${100 - sliderPosition}% 0 0)` }}
                 >
                     <Image
                         src={beforeImage}
                         alt={altBefore}
                         width={800}
                         height={600}
-                        className="h-full w-full object-cover"
+                        className="absolute top-0 left-0 h-full w-full object-cover"
                     />
                 </div>
             </div>
